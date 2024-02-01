@@ -28,11 +28,11 @@ Model evaluation:
 
 Model optimization:
 1) Logistic Regression Model
-     More cleaning of the revenue column to include binary outcomes 
-     Run micro-models on smaller revenue rates
+     - More cleaning of the revenue column to include binary outcomes 
+     - Run micro-models on smaller revenue rates
   
 2) Linear Regression Model
-     Remove outliers 
-     Resample the data
+     - Remove outliers 
+     - Resample the data
 
 
